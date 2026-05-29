@@ -61,4 +61,5 @@ if _name_ == "_main_":
 
    with open("review.txt", "w") as f:
 
-       f.write(review)
+       f.write(review)    
+      # create two file review.txt and diff.txt
